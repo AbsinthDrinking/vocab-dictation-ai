@@ -1,0 +1,17 @@
+{
+  "apple": {
+    "correct": 1,
+    "wrong": 0,
+    "last_seen": 1777972020.73771
+  },
+  "banana": {
+    "correct": 1,
+    "wrong": 0,
+    "last_seen": 1777972016.637701
+  },
+  "orange": {
+    "correct": 1,
+    "wrong": 1,
+    "last_seen": 1777972023.517962
+  }
+}
